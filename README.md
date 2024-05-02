@@ -1,8 +1,5 @@
 # Cy-Snake-AI
-A Machine Learnig Project 
-
-
-# Snake Game AI
+A Machine Learnig Project
 
 This project implements an AI agent that plays the classic Snake game using a machine learning model. The game is implemented in Python using the Pygame library.
 
