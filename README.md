@@ -59,7 +59,7 @@ To use the Snake Game AI, follow these steps:
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.11
 - Pygame
 - Torch
 - Matplotlib
@@ -67,4 +67,4 @@ To use the Snake Game AI, follow these steps:
 
 ## Credits
 
-This project was created by [Your Name].
+This project was created by Ayushman Das - Cyborg.
