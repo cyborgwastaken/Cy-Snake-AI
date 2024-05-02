@@ -65,7 +65,7 @@ To use the Snake Game AI, follow these steps:
 - Matplotlib
 - IPython
 
----
+
 
 **Step 1: Install PyGame**
 
