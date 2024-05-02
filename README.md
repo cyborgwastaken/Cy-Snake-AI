@@ -5,7 +5,7 @@ This project implements an AI agent that plays the classic Snake game using a ma
 
 ## Files
 
-### `game.py`
+### `snake.py`
 
 This file contains the main game logic and the `SnakeGameAI` class. Key functionalities include:
 
