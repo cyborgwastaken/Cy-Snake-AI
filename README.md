@@ -54,7 +54,7 @@ To use the Snake Game AI, follow these steps:
 
 1. Ensure you have Python 3.x installed on your system.
 2. Install the required dependencies (`pygame`, `torch`, `matplotlib`, `ipython`) using pip.
-3. Run the `train()` function in the `agent.py` file to train the AI agent on the Snake game.
+3. Run the the `agent.py` file to train the AI agent on the Snake game.
 4. Monitor the training progress using the live plot displayed during training.
 
 ## Dependencies
@@ -64,6 +64,32 @@ To use the Snake Game AI, follow these steps:
 - Torch
 - Matplotlib
 - IPython
+
+---
+
+**Step 1: Install PyGame**
+
+```bash
+pip install pygame
+```
+
+**Step 2: Install PyTorch**
+
+```bash
+pip3 install torch torchvision
+```
+
+**Step 3: Install MatPlotLib**
+
+```bash
+pip install matplotlib
+```
+
+**Step 4: Install IPython**
+
+```bash
+pip install ipython
+```
 
 ## Credits
 
